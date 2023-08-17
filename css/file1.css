@@ -88,7 +88,7 @@ body {
 
 /* //////////////////////////////////////////////////////////////////////////////////// */
 .landing .intro-text {
-    background-image: url(/image/3899617.jpg);
+    background-image: url('../image/3899617.jpg');
     background-size: cover;
     height: calc(100vh - 74px);
     position: relative;
